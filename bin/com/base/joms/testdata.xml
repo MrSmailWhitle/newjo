@@ -1,0 +1,9 @@
+<?xml version="1.0" encodeing="utf-8"?><testconfig>
+<logindataset name="active" />
+	<datasets>
+		<custom name="active">
+			<var nmae="loginname">luoxiaolin</var>
+			<var name="password">ciic</var>
+		</custom>
+	</datasets>
+</testconfig>

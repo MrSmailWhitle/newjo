@@ -1,0 +1,18 @@
+<?xml version="1.0" encodeing="utf-8"?><testconfig>
+<logindataset name="active" />
+	<datasets>
+		<custom name="active">
+			<var name="loginname">luoxiaolin</var>
+			<var name="password">ciic</var>
+		</custom>
+		<custom name="dataDriven">
+				
+			<list name="loginname">
+			<var>dongshiyu</var>
+			<var>slj</var>
+				</list>
+			<var name="password">ciic</var>
+		</custom>
+		
+	</datasets>
+</testconfig>

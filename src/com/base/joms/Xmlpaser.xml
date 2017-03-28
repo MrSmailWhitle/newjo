@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<datasets>
+	<locators name="loginoms">
+		<locator name="loginlocator" by='id'>txt_login_name</locator>
+		<locator name="pwdlocator" by='id'>txt_Pwd_01</locator>
+		<locator name="submitlocator" by="class">div_login_button</locator>	
+	</locators>
+</datasets>

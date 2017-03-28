@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="H:/dom4j-1.6.1/dom4j-1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="H:/dom4j-1.6.1/dom4j-1.6.1/lib/jaxen-1.1-beta-6.jar"/>
+	<classpathentry kind="lib" path="H:/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bai/Downloads/Junit 4.11/Junit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bai/Downloads/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5.jar" sourcepath="C:/Users/bai/Downloads/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bai/Downloads/selenium-java-2.52.0/selenium-2.52.0/selenium-java-2.52.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
